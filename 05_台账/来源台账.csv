@@ -1,1 +1,177 @@
 编号,标题,作者或机构,日期,链接,类型,阅读程度,支持什么判断,局限,提交者
+G-1-01,The Rise of E-Wallet Super-Apps and Buy-Now-Pay-Later,"Wenlong Bian, Lin William Cong, Yang Ji",2024-11,https://www.nber.org/papers/w33178,工作论文,L2,电子钱包、BNPL、支付与信贷融合,单一大型钱包，数据受保密约束,GPT P1-R1
+G-1-02,Breaking Barriers to Financial Access,Shashwat Alok 等,2024-12,https://www.nber.org/papers/w33259,工作论文,L2,UPI 与信贷可得性,印度制度环境，版本后续有修订,GPT P1-R1
+G-1-03,"CBDC, Bank Deposits, and Digital Payments",Marco Di Maggio 等,2024-05,https://www.nber.org/papers/w32457,工作论文,L2,数字卢比对存款和支付轨道的影响,特定银行和推广制度,GPT P1-R1
+G-1-04,"CBDCs, Payment Firms, and Geopolitics",Tobias Berg 等,2024-08,https://www.nber.org/papers/w32857,工作论文,L2,数字欧元公告与支付公司估值,事件研究，未观察实际上线效果,GPT P1-R1
+G-1-05,Nexus: enabling instant cross-border payments,BIS Innovation Hub,2024-07,https://www.bis.org/publications/othp86.htm,机构报告,L2,跨境即时支付互联架构,主要是设计和试点阶段,GPT P1-R1
+G-1-06,PayOff: A Regulated CBDC with Private Offline Payments,"Beer, Zingg, Kostiainen 等",2024-08,https://arxiv.org/abs/2408.06956,会议或预印本论文,L2,离线支付协议和性能,工程评估，未在生产系统部署,GPT P1-R1
+G-1-07,Settlement Speed and Financial Stability,"Agostino Capponi, Jin-Wook Chang",2025-11，2026 修订,https://www.federalreserve.gov/econres/feds/settlement-speed-and-financial-stability.htm,工作论文,L2,结算速度、流动性与系统性风险,理论模型，非现场因果估计,GPT P1-R1
+G-1-08,人民币国际化报告（2025）,中国人民银行,2025,https://www.pbc.gov.cn/huobizhengceersi/214481/3871621/5885243/2025122616492523798.pdf,监管文件,L2,mBridge、跨境二维码、支付机构跨境人民币业务,报告披露以官方统计为主,GPT P1-R1
+G-1-09,FedNow Service Volume and Value Statistics,Federal Reserve Financial Services,持续更新,https://www.frbservices.org/resources/financial-services/fednow-service-resources/fednow-service-volume-value-statistics/,监管或基础设施统计,L2,FedNow 2024 结算量和金额,聚合统计，不含参与机构微观数据,GPT P1-R1
+G-1-10,Visa Fiscal 2024 Annual Report,Visa,2024,https://s29.q4cdn.com/385744025/files/doc_downloads/2024/Visa-Fiscal-2024-Annual-Report.pdf,机构报告,L2,国际支付和处理交易量,公司自报，缺少网络竞争的外部核验,GPT P1-R1
+G-1-11,Mastercard 2024 Form 10-K,Mastercard,2025,https://www.mastercardannualmeeting.com/media/2rqjqlte/ma-12-31-2024-10-k-as-filed-with-exhibits.pdf,机构报告,L2,中国境内处理、跨境交换和结算保证,公司披露口径,GPT P1-R1
+G-1-12,BIS Data Portal / Payment Statistics,BIS,持续更新,https://data.bis.org/,数据库,L1,公开支付统计和 API,以汇总数据为主,GPT P1-R1
+G-1-13,Unified Payments Interface Transaction Statistics,NPCI 及公开整理项目,持续更新,https://dataful.in/collections/2126/,数据集,L1,UPI 月度、州、银行和应用统计,应回到 NPCI 原始页面核验,GPT P1-R1
+G-1-14,Benchmarking the performance of a self-custody non-ledger-based payment system,"Geoffrey Goodell, William Macpherson",2024-04,https://arxiv.org/abs/2404.12821,预印本论文,L2,小团队 CBDC/隐私支付系统先例,预印本，未证明生产可行性,GPT P1-R1
+G-2-01,FinTech Lending to Borrowers with No Credit History,Laura Chioda 等,2024-11，2026 修订,https://www.nber.org/papers/w33208,工作论文,L2,替代数据、无征信记录借款人、公平性,墨西哥单一平台,GPT P1-R1
+G-2-02,Modernizing Access to Credit for Younger Entrepreneurs,Christopher Hair 等,2025-01，2026 修订,https://www.nber.org/papers/w33367,工作论文,L2,现金流数据与年轻企业家授信,美国样本，数据合作限制,GPT P1-R1
+G-2-03,The impact of fintech lending on credit access for U.S. small businesses,Giulio Cornelli 等,2024-08,https://www.sciencedirect.com/science/article/pii/S1572308924000755,期刊论文,L1,金融科技小微贷款市场与贷款特征,正文访问受出版商权限影响,GPT P1-R1
+G-2-04,Small Business Lending Survey 2024,FDIC,2024,https://www.fdic.gov/publications/small-business-lending-survey-2024,监管机构报告,L2,银行金融科技使用比例和流程,调查口径，不是交易级数据,GPT P1-R1
+G-2-05,Section 4 FinTech,FDIC,2024,https://www.fdic.gov/system/files/2024-09/small-business-lending-survey-2024-section-4-fintech.pdf,监管机构报告,L2,金融科技与关系型承保的并存,银行自报,GPT P1-R1
+G-2-06,Signals from SMS: Alternative Data and Distributional Effects in Credit Scoring,Seung Hyeong Lee 等,2026,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6345399,工作论文,L2,"2,200 万申请、短信数据、分配效应",2026 工作论文，尚非稳定共识,GPT P1-R1
+G-2-07,Invisible Primes: Fintech Lending with Alternative Data,"Marco Di Maggio, Dimuthu Ratnadiwakara",2026,https://doi.org/10.1287/mnsc.2024.07854,期刊论文,L1,替代数据识别传统模型遗漏的优质借款人,最新正式发表，长期结果仍有限,GPT P1-R1
+G-2-08,A machine learning workflow to address credit default prediction,Rahmani 等,2024-03,https://arxiv.org/abs/2403.03785,预印本论文,L2,集成模型、WoE、多目标优化,公开基准，缺少真实授信流程,GPT P1-R1
+G-2-09,Credit Risk Meets Large Language Models,"Sanz-Guerrero, Arroyo",2024-01,https://arxiv.org/abs/2401.16458,预印本论文,L2,借款文本、BERT、LLM 风险评分,P2P 数据，模型监管问题未解决,GPT P1-R1
+G-2-10,Consumer Sentinel Network Data Book 2024,FTC,2025,https://www.ftc.gov/system/files/ftc_gov/pdf/csn-annual-data-book-2024.pdf,监管机构报告,L2,欺诈损失、身份盗用和支付方式,投诉数据，存在报告选择偏差,GPT P1-R1
+G-2-11,Enhanced Fraud Detection Processes,U.S. Treasury,2024-10,https://home.treasury.gov/news/press-releases/jy2650,监管机构披露,L2,政府机器学习反欺诈投入,不披露单模型因果效果,GPT P1-R1
+G-2-12,CFPB Circular 2023-03,CFPB,2023，2024 联邦公报发布,https://files.consumerfinance.gov/f/documents/cfpb_adverse_action_notice_circular_2023-09.pdf,监管文件,L2,AI 授信拒贷理由必须具体准确,主要针对美国法律体系,GPT P1-R1
+G-2-13,Agencies Issue Statement on Bank Arrangements with Third Parties,FDIC、Federal Reserve、OCC,2024-07,https://www.fdic.gov/news/financial-institution-letters/2024/agencies-issue-statement-bank-arrangements-third-parties,监管文件,L2,银行—金融科技第三方风险监督,原则性文件，执行细则仍在发展,GPT P1-R1
+G-2-14,Examination Guidance for Third-Party Lending,FDIC,2024,https://www.fdic.gov/sites/default/files/2024-03/fil16050a.pdf,监管文件,L2,第三方贷款全流程风险管理,美国监管范围,GPT P1-R1
+G-2-15,金融科技创新应用声明书,中国人民银行成都分行等,2024,https://chengdu.pbc.gov.cn/chengdu/129312/5493027/2024103111101748065.pdf,监管文件,L2,征信、数据授权、贷后风险管理,应用声明样本，不等于全面市场统计,GPT P1-R1
+G-2-16,Parafin machine-learning underwriting disclosure,First Citizens / Parafin,2024-04,https://newsroom.firstcitizens.com/2024-04-09-Parafin-Secures-125-Million-Warehouse-Facility-from-Silicon-Valley-Bank-and-Trinity-Capital-Inc,机构披露,L2,基于销售表现的嵌入式小微贷款承保,未披露模型细节和表现,GPT P1-R1
+G-2-17,HMDA Data and Data Browser,CFPB、FFIEC,持续更新,https://www.consumerfinance.gov/data-research/hmda/,公共数据库,L2,公开贷款申请级数据和 API,隐私修改，非完整信用档案,GPT P1-R1
+G-2-18,Small Business Credit Survey,Federal Reserve Banks,2024 调查，2025 发布,https://www.fedsmallbusiness.org/publications/reports/2024/small-business-credit-survey,调查数据,L2,小微企业融资需求、申请与结果,便利样本，个体回答不公开,GPT P1-R1
+G-2-19,Terms of Credit Card Plans Survey,CFPB,半年度更新,https://www.consumerfinance.gov/data-research/credit-card-data/terms-credit-card-plans-survey/,公共数据库,L1,消费信贷价格和条款,以产品条款为主,GPT P1-R1
+G-2-20,FICO Explainable Machine Learning Challenge Dataset,FICO / IBM AIX360,2017，持续使用,https://aix360.factsheets.vpc.res.ibm.com/data,公共数据集,L2,HELOC 信用风险和解释性,样本小，非实时业务数据,GPT P1-R1
+G-2-21,Global Findex Database 2025,World Bank,2025,https://www.worldbank.org/en/publication/globalfindex/download-data,公共数据库,L2,全球借贷、数字金融和金融韧性,需求侧调查，非贷款交易数据,GPT P1-R1
+G-2-22,HELOC Dataset,Hugging Face 社区封装,持续维护,https://huggingface.co/datasets/mstz/heloc,开源数据封装,L1,小团队复现实验先例,第三方封装，需核对许可,GPT P1-R1
+G-3-01,The diversification and welfare effects of robo-advising,"Alberto G. Rossi, Stephen Utkus",2024-07,https://doi.org/10.1016/j.jfineco.2024.103869,期刊论文,L2,智能投顾与分散化、费用、投资者福利,单一大型美国投顾,GPT P1-R1
+G-3-02,Robo Advisors and Access to Wealth Management,"Michael Reher, Stanislav Sokolinski",2024 修订,https://ssrn.com/abstract=3515707,工作论文,L2,智能投顾对中产投资者可及性的影响,美国平台准实验,GPT P1-R1
+G-3-03,What drives robo-advice?,"Bernd Scherer, Sebastian Lehner",2025,https://doi.org/10.1016/j.jempfin.2024.101574,期刊论文,L2,"151,200 个投资者画像与资产配置",网页抓取，不是实际账户收益,GPT P1-R1
+G-3-04,Human-Robot Interactions in Investment Decisions,"Milo Bianchi, Marie Briere",2024-04,https://ssrn.com/abstract=4787450,工作论文,L2,提醒、再平衡和人机协同,单一员工储蓄计划,GPT P1-R1
+G-3-05,Does ChatGPT Provide Better Advice than Robo-Advisors?,"Andreas Oehler, Matthias Horn",2024,https://ssrn.com/abstract=4886298,工作论文或期刊前稿,L2,ChatGPT 与 17 个机器人建议比较,一次性建议，未观察长期账户,GPT P1-R1
+G-3-06,SEC Charges Two Investment Advisers for Misleading AI Statements,SEC,2024-03,https://www.sec.gov/newsroom/press-releases/2024-36,监管执法文件,L2,AI 投资顾问营销真实性,个案执法,GPT P1-R1
+G-3-07,Reforms Relating to Investment Advisers Operating Exclusively Through the Internet,SEC,2024,https://www.sec.gov/newsroom/press-releases/2024-42,监管文件,L2,互联网投顾注册、算法披露和服务边界,美国规则,GPT P1-R1
+G-3-08,关于全面实施个人养老金制度的通知,人社部、财政部、税务总局、金融监管总局、证监会,2024-12,https://www.mohrss.gov.cn/wap/xw/rsxw/202412/t20241212_532238.html,监管文件,L2,全国实施、产品扩容、资产配置公示、默认投资,未披露账户级效果,GPT P1-R1
+G-3-09,关于全面实施个人养老金制度的通知全文,五部门,2024-12,https://www.csrc.gov.cn/csrc/c100028/c7524086/content.shtml,监管文件,L2,账户入口和参加方式,制度文件,GPT P1-R1
+G-3-10,关于金融支持中国式养老事业的指导意见,中国人民银行等九部门,2024-12,https://app.www.gov.cn/govdata/gov/202412/14/522699/article.html,监管文件,L2,养老产品和专属储蓄方向,原则性政策,GPT P1-R1
+G-3-11,Thematic Review of Retirement Income Advice,FCA,2024-03,https://www.fca.org.uk/publications/thematic-reviews/thematic-review-retirement-income-advice,监管报告,L2,退休现金流建模和建议适当性,英国退休制度,GPT P1-R1
+G-3-12,Fund Investment Adviser Pilot,中国证监会、基金业协会,2019 起，持续试点,https://www.amac.org.cn/hdjl/gjjl/202111/P020231126398112648236.pdf,监管文件,L2,基金投顾业务制度基础,早期制度材料,GPT P1-R1
+G-3-13,Morningstar’s Robo-Advisor Report,Morningstar,2025,https://assets.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blt3a7d8adf8cd369ac/679aa4e568a102ed455adcac/Robo-Advisor_2025.pdf,机构报告,L2,数字投顾规模、平台和功能,部分规模为估计,GPT P1-R1
+G-3-14,Financial Lives 2024: Financial Advice and Support,FCA,2025 发布,https://www.fca.org.uk/publication/financial-lives/fls-2024-financial-advice-support.pdf,调查报告,L2,投资、养老金和退休咨询需求,自报调查,GPT P1-R1
+G-3-15,A Robo-Advisor System: Expected Utility Modeling via Pairwise Comparisons,"Bo Chen, Jia Liu",2024-10,https://arxiv.org/abs/2410.12570,预印本论文,L2,开源投顾原型和效用建模,模拟和少量用户测试,GPT P1-R1
+G-4-01,Automated Machine Learning in Insurance,"Panyi Dong, Zhiyu Quan",2024-08,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4940609,工作论文,L2,AutoML、数据预处理、保险模型部署,尚未证明生产效果,GPT P1-R1
+G-4-02,Improving Business Insurance Loss Models by Leveraging InsurTech Innovation,研究团队,2024-01,https://arxiv.org/abs/2401.16723,预印本论文,L2,InsurTech 外部数据与损失模型,专有数据，预印本,GPT P1-R1
+G-4-03,Global InsurTech Report Q2 2024,Gallagher Re,2024,https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2024/august/gallagherre-global-insurtech-report-q2-2024.pdf,机构报告,L2,AI 在定价、核保和理赔的行业关注,行业内容统计，不是因果研究,GPT P1-R1
+G-4-04,Fraud Risk Assessment in Car Insurance Using Claims Graph Features,研究团队,2024-10,https://doi.org/10.1016/j.eswa.2024.124109,期刊论文,L2,图特征与车险欺诈识别,依赖特定数据结构,GPT P1-R1
+G-4-05,AI/ML Uses in Auto Insurance,NAIC,2024—2025,https://content.naic.org/sites/default/files/gov-affairs-ny-state-assembly-ai-in-insurance.pdf,监管调查材料,L2,车险 AI 应用场景,调查和汇总口径,GPT P1-R1
+G-4-06,Health Insurance AI/ML Survey Results,NAIC,2025，问题于 2024 发布,https://content.naic.org/sites/default/files/inline-files/Health Survey Report - FINAL 5.9.25.pdf,监管调查报告,L2,健康险风险调整、理赔和反欺诈部署,公司自报,GPT P1-R1
+G-4-07,Advancing Loss Reserving,"Brandon Schwab, Judith C. Schneider",2024-04,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769020,工作论文,L2,神经网络预测未决赔款和 SHAP 解释,专有工业保险数据,GPT P1-R1
+G-4-08,重庆市人身保险行业 2024 年度赔付报告,重庆监管和行业机构,2025,https://www.nfra.gov.cn/chinese/docfile/2025/d9204e0146b14bc69c9989c6d9104d84.pdf,监管或行业报告,L2,智能理赔、电子发票、赔付时效,地区性统计,GPT P1-R1
+G-4-09,中国人寿上海全场景数智理赔体系,中国人寿上海分公司,2025 披露 2024 数据,https://jrj.sh.gov.cn/BX182/20250328/08e070453dc34bae81d1416a275b0b59.html,机构正式披露,L2,智能审核、票据结构化、责任匹配,单一分公司自报,GPT P1-R1
+G-4-10,上海科技保险创新发展报告（2024 年度）,上海金融监管相关机构,2025,https://www.nfra.gov.cn/chinese/docfile/2025/6434260e204847a2bb5cd6b90ee969e3.pdf,监管或行业报告,L2,风险数据库、数字孪生、风险减量,案例汇编，缺少效果对照,GPT P1-R1
+G-4-11,中国保险业社会责任报告（2024）,中国保险行业协会,2025,https://www.iachina.cn/attach/0/1e50df5e69b74475a823cc935d5ba818.pdf,行业报告,L2,AI 坐席、理赔时效和行业数字化,行业汇总,GPT P1-R1
+G-4-12,中国人保 2023 年年度报告,中国人民保险集团,2024,https://static.cninfo.com.cn/finalpage/2024-03-27/1219411151.PDF,机构报告,L2,人保 e 通、APP、OCR、RPA、AI 应用,公司自报,GPT P1-R1
+G-4-13,NAIC Model Bulletin: Use of AI Systems by Insurers,NAIC,2023-12，持续实施,https://content.naic.org/sites/default/files/2023-12-4%2520Model%2520Bulletin_Adopted_0.pdf,监管文件,L2,AI 决策仍受保险法和消费者保护规则约束,模型示范文件,GPT P1-R1
+G-4-14,Implementation of NAIC Model Bulletin,NAIC,2024-05,https://content.naic.org/sites/default/files/inline-files/AI Model Bulletin - May 2024.pdf,监管统计材料,L2,州级采纳和指导数量,截止日期有限,GPT P1-R1
+G-4-15,Loss Reserving Data Pulled from NAIC Schedule P,Casualty Actuarial Society,持续更新,https://www.casact.org/publications-research/research/research-resources/loss-reserving-data-pulled-naic-schedule-p,公共数据集,L2,损失三角、准备金、IBNR,汇总数据，非保单级,GPT P1-R1
+G-4-16,Financial Data Repository,NAIC,持续更新,https://content.naic.org/insurance-topics/financial-data-repository,数据库,L1,保险公司财务、偿付能力和监管数据,访问和商业用途受限,GPT P1-R1
+G-4-17,Consumer Insurance Complaint Data,NAIC,持续更新,https://content.naic.org/cis_refined_results.htm?TABLEAU=CIS_FINANCIAL,公共数据,L1,消费者投诉和服务争议,非所有州都提交,GPT P1-R1
+G-4-18,Medicare Claims Public Use Files,CMS,持续更新,https://www.cms.gov/data-research/statistics-trends-and-reports/basic-stand-alone-medicare-claims-public-use-files,公共数据集,L2,去标识化健康理赔,变量删减和再编码,GPT P1-R1
+G-4-19,"Standard Analytical Files, Medicare Claims LDS",CMS,持续更新,https://www.cms.gov/data-research/files-for-order/limited-data-set-lds-files/standard-analytical-files-medicare-claims-lds,可申请数据库,L1,更细粒度 Medicare 理赔,需申请、协议和费用,GPT P1-R1
+G-4-20,InsHist—All With History,FMCSA / U.S. DOT,2024 建立,https://catalog.data.gov/dataset/inshist-all-with-history,公共数据集,L1,商业运输保险历史,不含车联网驾驶轨迹,GPT P1-R1
+G-5-01,"RegTech: Technology-driven compliance and its effects on profitability, operations, and market structure",Ben Charoenwong 等,2024-04,https://doi.org/10.1016/j.jfineco.2024.103792,期刊论文,L2,RegTech 投资、利润、投诉和市场集中度,内部控制制度冲击，非 AML 专项,GPT P1-R1
+G-5-02,Artificial Intelligence and Machine Learning in Financial Services,Congressional Research Service,2024-04,https://www.everycrsreport.com/files/2024-04-03_R47997_0bdeddacfe0f25d13dae50b7cb1080e5ceeed299.pdf,政策研究报告,L2,AI/ML 用于 AML、欺诈和交易监测,汇总二手资料,GPT P1-R1
+G-5-03,Graph Feature Preprocessor,Jovan Blanuša 等,2024-02,https://arxiv.org/abs/2402.08593,预印本论文,L2,实时交易图和 AML 特征提取,公开数据和基准，非银行生产数据,GPT P1-R1
+G-5-04,Identifying Money Laundering Subgraphs on the Blockchain,Kiwhan Song 等,2024-10,https://arxiv.org/abs/2410.08394,预印本论文,L2,区块链 AML 子图识别,加密资产场景,GPT P1-R1
+G-5-05,Building a More Diverse SupTech Ecosystem,BIS FSI,2024-05,https://www.bis.org/fsi/briefs23.htm,机构研究报告,L2,监管报送、风险评估和监管自动化,调查数据，非项目级效果,GPT P1-R1
+G-5-06,Peering Through the Hype: SupTech Tools’ Transition from Experimentation to Supervision,BIS FSI,2024-06,https://www.bis.org/publications/fsi-insight-58-peering-through-hype-assessing-suptech-tools-transition-experimentation-supervision,机构研究报告,L2,SupTech 从试验到日常监管的条件,主要是案例和访谈分析,GPT P1-R1
+G-5-07,中国金融科技创新监管工具相关公开材料,中国人民银行,持续更新,https://www.bjrd.gov.cn/rdzl/rdzc/mcjs/202012/t20201222_2180757.html,监管说明,L2,中国版监管沙盒和测试工具,概括性说明,GPT P1-R1
+G-5-08,金融科技创新应用测试规范、风险监控规范,中国人民银行、全国金融标准化技术委员会,2020，现行,https://cfstc.pbc.gov.cn/bzgk/detail/?bzId=1882&id=0,行业标准,L2,测试和风险监控框架,规范性文件，不披露项目效果,GPT P1-R1
+G-5-09,中国人民银行文告中的金融科技创新监管工具,中国人民银行,2023,https://www.pbc.gov.cn/chubanwu/114566/114579/4940535/5093977/2023101214234237156.pdf,监管文件,L2,鼓励科技企业参与测试和应用场景,非完整项目清单,GPT P1-R1
+G-5-10,FCA Regulatory Sandbox Accepted Firms,FCA,持续更新,https://www.fca.org.uk/firms/innovation/regulatory-sandbox/accepted-firms,监管平台,L2,真实消费者测试、临时许可和项目公开,项目成败信息不完整,GPT P1-R1
+G-5-11,Regulating AI in the Financial Sector,BIS FSI,2024-12,https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges,机构研究报告,L2,模型风险、数据治理和第三方 AI,观点性政策研究,GPT P1-R1
+G-5-12,人工智能算法金融应用信息披露指南,中国人民银行、全国金融标准化技术委员会,2023，现行,https://cfstc.pbc.gov.cn/bzgk/detail/?bzId=2050&id=0,行业标准,L2,算法金融应用披露,指南性标准,GPT P1-R1
+G-5-13,AMLSim / HI-Small,IBM Research,持续使用,https://github.com/IBM/AMLSim,开源数据和代码,L1,AML 交易图和模型基准,合成或研究基准数据,GPT P1-R1
+G-5-14,Elliptic / Elliptic2 AML Dataset,Elliptic Research,持续使用,https://arxiv.org/abs/2410.08394,公共数据集,L1,区块链资金流和 AML 子图,不代表银行账户网络,GPT P1-R1
+G-5-15,金融业开源技术术语,中国人民银行、金融标准化技术委员会,2024,https://cfstc.pbc.gov.cn/bzgk/detail/?bzId=2059&id=0,行业标准,L1,金融开源技术标准化方向,术语标准，非应用效果,GPT P1-R1
+G-6-01,Customer Data Access and Fintech Entry: Early Evidence from Open Banking,Babina 等,2024-01,https://www.nber.org/papers/w32089,工作论文,L2,开放银行、金融科技进入、信贷和金融建议,英国微观数据和国际政策样本,GPT P1-R1
+G-6-02,Data Sharing with Dynamic Contracts,"Alessandro Dovis, Paolo Martellini",2024-10,https://www.nber.org/papers/w33051,工作论文,L2,动态信息披露、信贷和健康保险,理论模型，非平台实证,GPT P1-R1
+G-6-03,How to Promote Data Sharing of Financial Service Providers Based on Federated Learning,研究团队,2024-01,https://doi.org/10.4018/IRMJ.358747,期刊论文,L2,联邦学习数据共享激励,演化博弈和概念模型,GPT P1-R1
+G-6-04,Fed-RD: Privacy-Preserving Federated Learning for Financial Crime Detection,Islam Khan 等,2024-08,https://arxiv.org/abs/2408.01609,预印本论文,L2,联邦学习、差分隐私和安全多方计算,现实合成数据,GPT P1-R1
+G-6-05,Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection,Abadi 等,2024-01,https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/1/670/files/2024/05/Starlit-Privacy-preserving-federated-learning-to-enhance-financial-fraud-detection.pdf,预印本论文,L2,隐私保护欺诈检测和系统安全,研究原型，生产部署有限,GPT P1-R1
+G-6-06,Privacy-enhancing Technologies for Digital Payments,BIS,2025-01,https://www.bis.org/publications/working-paper-1242-privacy-enhancing-technologies-digital-payments-mapping-landscape,工作论文,L2,PET 技术分类和隐私—透明度权衡,数字支付重点,GPT P1-R1
+G-6-07,BIS Annual Economic Report 2024,BIS,2024,https://www.bis.org/publ/arpdf/ar2024e.pdf,机构报告,L2,数据标准、元数据、隐私计算和模型共享,宏观政策报告,GPT P1-R1
+G-6-08,Better Data Sharing: Financial Reporting Requirements,欧盟理事会、欧洲议会,2024-12,https://www.consilium.europa.eu/en/press/press-releases/2024/12/17/better-data-sharing-council-and-parliament-strike-deal-on-financial-reporting-requirements/pdf/,监管文件,L2,共同数据字典和金融数据空间,临时协议，执行细节后续确定,GPT P1-R1
+G-6-09,Proposed Joint Data Standards under FDTA,SEC 等美国监管机构,2024-08,https://www.sec.gov/newsroom/press-releases/2024-93,监管文件,L2,监管数据标准和机器可读报送,提案阶段,GPT P1-R1
+G-6-10,银行保险机构数据安全管理办法,国家金融监督管理总局,2024-12,https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1192311,监管文件,L2,数据分类分级、目录和保护,中国银行保险机构范围,GPT P1-R1
+G-6-11,金融科技发展规划（2022—2025 年）,中国人民银行,2022，持续实施,https://www.wsmtec.com/web/newsCenter/news/169,监管规划,L1,联邦学习、多方安全计算和差分隐私路线,二手转载，需核对正式原文,GPT P1-R1
+G-6-12,金融数据综合应用试点,中国人民银行,2021，持续影响,https://jrj.beijing.gov.cn/jrgzdt/202105/t20210527_2399699.html,监管试点,L2,跨机构金融数据融合和隐私计算,早期试点，公开效果有限,GPT P1-R1
+G-6-13,北京“数据要素×”典型案例集,国家数据局,2024-08,https://www.nda.gov.cn/sjj/swdt/dfdt/0829/20240829161045237905217_pc.html,政府案例集,L2,隐私计算、信用评估和金融数据要素应用,案例材料，缺少完整运营指标,GPT P1-R1
+G-6-14,金融科技创新应用测试规范,中国人民银行、金融标准化技术委员会,2020，现行,https://cfstc.pbc.gov.cn/bzgk/detail/?bzId=1882&id=0,行业标准,L1,金融科技测试和风险监控基础,不是 2024 年新规,GPT P1-R1
+G-6-15,Financial Data Transparency Act Joint Data Standards,SEC 等,2024 提案，后续规则,https://www.sec.gov/rules-regulations/2026/05/s7-2024-05,监管文件,L1,跨监管机构数据标准化方向,后续版本已变化,GPT P1-R1
+G-6-16,金融领域隐私保护计算实践白皮书,中国信通院等,2021,https://www.caict.ac.cn/kxyj/qwfb/ztbg/202111/P020211118547166022785.pdf,行业报告,L2,银行反欺诈、黑名单共享和隐私计算节点,早期案例，非最新生产统计,GPT P1-R1
+G-7-01,Optimal Design of Tokenized Markets,"Michael Junho Lee, Antoine Martin, Robert M. Townsend",2024-09,https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1121.pdf,工作论文,L2,代币化、结算不确定性和市场设计,理论模型,GPT P1-R1
+G-7-02,"Global Financial Stability Report, Box on Tokenisation",IMF,2024-10,https://www.imf.org/-/media/files/publications/gfsr/2024/october/english/textrevised.pdf,机构报告,L2,代币化收益、互联性和金融稳定,全球政策分析,GPT P1-R1
+G-7-03,Public Information and Stablecoin Runs,BIS,2024-01,https://www.bis.org/publications/working-paper-1164-public-information-and-stablecoin-runs,工作论文,L2,储备透明度、质量和稳定币挤兑,模型和市场机制分析,GPT P1-R1
+G-7-04,The Anatomy of Stablecoin Transactions,BIS,2026,https://www.bis.org/publications/working-paper-1359-anatomy-stablecoin-transactions,工作论文,L2,稳定币复杂交易和支付统计测量,以太坊三种美元稳定币,GPT P1-R1
+G-7-05,Decrypting Crypto: How to Estimate International Stablecoin Flows,IMF,2025-07,https://meetings.imf.org/en/-/media/files/publications/wp/2025/english/wpiea2025141-source-pdf.pdf,工作论文,L2,稳定币跨境流量和机器学习估计,依赖商业数据和估计模型,GPT P1-R1
+G-7-06,Project Agorá,BIS Innovation Hub,2024-04 起,https://www.bis.org/media-releases/20240403-project-agora-central-banks-and-banking-sector-embark-major-project-explore-tokenisation-cross,监管或基础设施项目,L2,代币化央行储备、商业银行存款和跨境结算,早期探索和原型,GPT P1-R1
+G-7-07,HKMA Project Ensemble and mBridge Briefing,香港金融管理局,2024-11,https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20241104e1.pdf,监管或基础设施报告,L2,批发 CBDC、代币化结算和互操作标准,项目测试阶段,GPT P1-R1
+G-7-08,Latest Fintech Initiatives,香港金融管理局,2025，披露 2024 项目,https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20250506e1.pdf,监管或基础设施报告,L2,Ensemble Sandbox、EFB 代币化测试,官方阶段性披露,GPT P1-R1
+G-7-09,MiCA Application Timeline,欧盟委员会,2024-12,https://finance.ec.europa.eu/news/digital-finance-2024-12-19_en,监管文件,L2,稳定币条款和 MiCA 全面适用时间,欧盟法域,GPT P1-R1
+G-7-10,Financial Stability Implications of Tokenisation,FSB,2024-10,https://www.bis.org/publications/fsi-summary-financial-stability-implications-tokenisation-executive-summary,监管研究报告,L1,代币化金融稳定风险,摘要页面，非完整原文,GPT P1-R1
+G-7-11,Presentation Materials on Tokenisation of SFC-authorised Investment Products,香港 SFC,2024-01,https://www.sfc.hk/-/media/files/PCIP/FAQ-PDFS/Presentation-Materials-on-tokenisation-of-SFC-authorised-investment-products-20240110.pdf,监管文件,L2,香港代币化私募基金和全球产品,专业投资者和产品披露范围,GPT P1-R1
+G-7-12,RWA Report 2024: Rise of Real-World Assets in Crypto,CoinGecko,2024,https://assets.coingecko.com/reports/Research/RWA-Report-2024-Rise-of-Real-World-Assets-in-Crypto.pdf,机构报告,L2,RWA 项目分类和市场案例,行业研究，不是监管确认,GPT P1-R1
+G-7-13,Digital Safe Havens: Economics of Tokenized Treasuries,Chen Lin 等,2026-07,https://www.nber.org/papers/w35412,工作论文,L1,代币化国债、避险流入和链上脆弱性,2026 新工作论文,GPT P1-R1
+G-7-14,Stablecoin Runs and the Centralization of Arbitrage,NBER,2026,https://www.nber.org/papers/w33882,工作论文,L1,稳定币套利集中和挤兑风险,最新工作论文,GPT P1-R1
+G-7-15,Market Power and Redeemable Loyalty Token Design,Kenneth S. Rogoff 等,2024-11,https://www.nber.org/system/files/working_papers/w33201/w33201.pdf,工作论文,L2,可赎回代币设计和市场力量,重点是忠诚度代币，不是 RWA,GPT P1-R1
+G-8a-01,Artificial Intelligence Asset Pricing Models,"Kelly, Kuznetsov, Malamud, Xu",2025-01，2026 修订,https://www.nber.org/papers/w33351,工作论文,L2,Transformer 随机贴现因子、定价误差,工作论文，模型解释仍有限,GPT P1-R1
+G-8a-02,Asset Embeddings,"Gabaix, Koijen, Richmond, Yogo",2025-04,https://www.nber.org/papers/w33651,工作论文,L2,持仓嵌入、资产表示和文本叙述,持仓披露滞后且不完整,GPT P1-R1
+G-8a-03,Financial Statement Analysis with Large Language Models,"Kim, Muhn, Nikolaev",2024-07,https://arxiv.org/abs/2407.17866,预印本论文,L2,GPT-4 财报分析和盈利方向预测,匿名实验，不等于真实投资账户,GPT P1-R1
+G-8a-04,FinBen: A Holistic Financial Benchmark for LLMs,Xie 等,2024-12,https://papers.nips.cc/paper_files/paper/2024/hash/adb1d9fa8be4576d28703b396b82ba1b-Abstract-Datasets_and_Benchmarks_Track.html,会议论文,L2,42 数据集、24 金融任务,基准任务与生产流程有差异,GPT P1-R1
+G-8a-05,Scaling Point-in-Time Language Models,"Kelly, Malamud, Schwab, Xu",2026-05,https://www.nber.org/papers/w35247,工作论文,L2,前视偏差、时间截断语料和模型检查点,最新工作论文，训练成本高,GPT P1-R1
+G-8a-06,Assessing the Benefits of Optimized Agentic AI Systems for Asset Pricing,"Koijen, Levy",2026-07,https://www.nber.org/papers/w35431,工作论文,L2,实时基准、市场反身性和 agentic AI,2026 工作论文，尚非稳定共识,GPT P1-R1
+G-8a-07,ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities,Karger 等,2024-09,https://arxiv.org/abs/2409.19839,预印本论文,L2,无泄露预测、专家与 LLM 比较,预测问题领域有限,GPT P1-R1
+G-8a-08,"BIS Annual Economic Report 2024, Financial System Impact of AI",BIS,2024,https://www.bis.org/publ/arpdf/ar2024e.pdf,机构报告,L2,AI 在银行、支付、保险和资管中的应用与风险,宏观政策分析,GPT P1-R1
+G-8a-09,Regulating AI in the Financial Sector,BIS FSI,2024-12,https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges,机构研究报告,L2,模型风险、数据治理、第三方和生成式 AI,政策研究，非机构面板数据,GPT P1-R1
+G-8a-10,JPMorganChase Annual Report 2024,JPMorganChase,2025 发布,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf,机构报告,L2,175 个生产用例、KYC、制裁筛查、现金流和研究,公司自报,GPT P1-R1
+G-8a-11,Listed Banks in China 2024 Review and Outlook,EY,2025,https://www.ey.com/content/dam/ey-unified-site/ey-com/en-cn/newsroom/2025/5/documents/ey-listed-banks-in-china-2024-review-and-outlook-en.pdf,行业报告,L2,25 家上市银行科技投入和大模型方向,年报汇总，非因果研究,GPT P1-R1
+G-8a-12,China Construction Bank Annual Report 2024,中国建设银行,2025,https://www.ccb.com/eng/attachDir/2025/04/2025042511432381874.pdf,机构报告,L2,中央 AI 助手、个人 AI 助手和 AI 工具,公司自报,GPT P1-R1
+G-8a-13,"Federal Advisory Council Record, September 2024",Federal Reserve,2024-09,https://www.federalreserve.gov/aboutthefed/files/fac-20240905.pdf,监管会议记录,L2,AI 代理在银行运营中的探索,会议观点，不是正式规则,GPT P1-R1
+G-8a-14,Speech on Artificial Intelligence and Banking,Federal Reserve Board,2025-04,https://www.federalreserve.gov/newsevents/speech/barr20250404a.htm,监管讲话,L2,幻觉、随机性、可控性和敏感数据风险,讲话材料,GPT P1-R1
+G-8a-15,Bank of America Annual Report 2024,Bank of America,2025,https://investor.bankofamerica.com/regulatory-and-other-filings/all-sec-filings/content/0000070858-25-000155/0000070858-25-000155.pdf,机构报告,L2,AI、网络安全和模型治理风险,公司自报,GPT P1-R1
+G-8a-16,Large Language Models and the Future of Financial Analysis,"Kim, Muhn, Nikolaev",2024-10,https://www.suerf.org/wp-content/uploads/2024/10/SUERF-Policy-Brief-1008_Kim-et-al.pdf,机构政策简报,L1,财报 LLM 研究转述,二手政策简报，正文以 G-8a-03 为准,GPT P1-R1
+G-8b-01,"AI Financial Advice: Supply, Demand, and Life Cycle Implications",Choukhmane、de Silva、Lin、Akuzawa,2026-05、08,https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=10905,工作论文,未标,真实提问、生命周期模拟、供需分解,版本有差异；长期结果来自模拟,GPT P1-R1
+G-8b-02,AI Persuasion and Financial-Decision Making,Greubel、Guhling、Herweg,2026-08,https://www.ifo.de/DocDL/cesifo1_wp12925.pdf,CESifo 工作论文,L2,推介目标、利益披露与真人选择,虚拟基金二选一,GPT P1-R1
+G-8b-03,"Who Invests, Who Gets Funded",Wang、Gu,2026-02,https://link.springer.com/article/10.1007/s10551-026-06251-6,期刊论文,L2,推荐产品与金额的偏差可不同,场景和提示词约束,GPT P1-R1
+G-8b-04,Money Talks: Lessons from Two LLM Pilots on Consumer Guidance,Ahmed 等，FCA,2025-05,https://www.fca.org.uk/publication/research-notes/research-note-lessons-2-large-language-models-pilots-consumer-guidance.pdf,监管机构研究报告,L2,可读性、储蓄账户选择、使用意愿,预设问题界面,GPT P1-R1
+G-8b-05,AI 财富管理服务现状与趋势研究,张晓燕等，清华五道口、蚂蚁集团研究院,2025,https://www.pbcsf.tsinghua.edu.cn/AIcaifuguanlifuwuxianzhuangyuqushi.pdf,联合调研报告,L2,中国用户的用途与体验,线上自报，缺账户结果,GPT P1-R1
+G-8b-06,集团大事记：“蚂小财”亮相外滩大会,蚂蚁集团,2024-09,https://www.antgroup.com/,公司正式披露,L1,产品公开展示,页面摘要，未核实功能明细,GPT P1-R1
+G-8b-07,Visa and Partners Complete Secure AI Transactions,Visa,2025-12,https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.21961.html,公司正式披露,L2,数百笔受控真实交易,公司自报，无失败分母,GPT P1-R1
+G-8b-08,Visa Intelligent Commerce: Production Readiness,Visa Developer Center,动态文档,https://developer.visa.com/docs/visa-intelligent-commerce/production-readiness,产品技术文档,L2,沙盒权限、认证、授权和记录义务,限该网络,GPT P1-R1
+G-8b-09,Regulatory Notice 24-09,FINRA,2024-06,https://www.finra.org/sites/default/files/2024-06/regulatory-notice-24-09.pdf,监管通知,L2,会员机构继续承担既有义务,限适用主体,GPT P1-R1
+G-8b-10,AI量化选股不可信，荐股服务需谨慎,深圳证监局,2026-04,https://www.csrc.gov.cn/shenzhen/c105614/c7645981/content.shtml,监管风险提示,L2,无资质推介、虚假自动交易案例,个案,GPT P1-R1
+G-8b-11,NFCS Data and Downloads；2024 Investor Survey Instrument,FINRA Investor Education Foundation,2024 调查,https://www.finrafoundation.org/nfcs-data-and-downloads,数据库及问卷,L2,免费下载、样本筛选、跨问卷匹配,投资者子样本有筛选,GPT P1-R1
+G-8b-12,中国家庭金融调查公开数据库,西南财经大学中国家庭金融调查与研究中心,持续更新,https://chfs.swufe.edu.cn/sjzx/gksjk.htm,数据库说明,L2,中国家庭资产负债及申请入口,各轮可得性有别,GPT P1-R1
+G-8b-13,FinAgent-Bench,t54-labs,动态文档,https://www.t54.ai/docs/research/finagent-bench,开源项目文档,L2,债务、信用卡和还款任务评测,部分知识模块尚未实现,GPT P1-R1
+G-9-01,关于做好金融“五篇大文章”的指导意见,国务院办公厅,2025-03,https://app.www.gov.cn/govdata/gov/202503/05/525163/article.html,政策文件,L2,五个政策方向,不能证明机构已部署,GPT P1-R1
+G-9-02,“创新积分制”工作指引（2.0 版）,科技部,2025-10,https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/qtwj/qtwj2025/202510/W020251029388227917344.pdf,政策技术指引,L2,指标、权重、加分规则,无逐企评分效果,GPT P1-R1
+G-9-03,关于做好“企业创新积分制”服务平台有关工作的通知,工信部办公厅,2025-03,https://app.www.gov.cn/govdata/gov/202503/28/525908/article.html,平台正式文件,L2,测算规模、推荐及访问权限,无融资转化分母,GPT P1-R1
+G-9-04,创新积分制、科技金融靶向配置与制造业企业关键核心技术突破,李博文、张梓靖、李晓明,2026,https://jiro.cbpt.cnki.net/portal/journal/portal/client/paper/1bb78ff41567a2c5046ae0c22888d952,《金融经济学研究》期刊论文,未标,分批试点与制造业创新,未读到完整识别检验,GPT P1-R1
+G-9-05,Generative AI-powered venture screening,Vismara 等,2026 卷期,https://aisberg.unibg.it/retrieve/9fe3c513-2346-4bc1-aaaa-39daf9f77ced/Vismara Latifi Meinziger Pass IRFA26 Generative AI-powered venture screening Can large language models help VC LLM.pdf,*International Review of Financial Analysis* 论文,L2,创投项目分类速度和质量,专有库、四位分析师,GPT P1-R1
+G-9-06,"Houston, we have a problem: Can satellite information bridge the climate-related data gap?",Alonso-Robisco 等,2024 报告、2025 期刊版,https://www.bundesbank.de/resource/blob/941514/280d68e58f7ace557184221e7e92b12f/472B63F073F071307366337C94F8C870/2024-02-climate-related-data-gap-data.pdf,央行报告、期刊论文,未标,卫星数据的金融应用与分类,文献综述,GPT P1-R1
+G-9-07,Do investors care about biodiversity?,Garel、Romec、Sautner、Wagner,2024 刊版,https://academic.oup.com/rof/article/28/4/1151/7645412,*Review of Finance* 论文,未标,企业足迹与风险暴露的区别,足迹依模型估计,GPT P1-R1
+G-9-08,Patent Values 数据仓库,Stoffman、Woeppel、Yavuz；Woeppel 维护,数据至 2025,https://github.com/mwoeppel/patent-values,研究数据,L2,专利估值及匹配字段,限匹配 CRSP 的企业,GPT P1-R1
+G-9-09,Climate TRACE Data Downloads,Climate TRACE,2026-10 版,https://climatetrace.org/data,数据库、API,L2,排放估计、历史版本,行业方法有别,GPT P1-R1
+G-9-10,Climate TRACE Ownership Tool,Anna Mowat 等,持续更新,https://github.com/climatetracecoalition/climate-trace-tools/blob/main/climate_trace_tools/ownership/README.md,开源项目文档,L2,所有权链与排放查询,特定函数未按权益比例折算,GPT P1-R1
+G-9-11,"Project Symbiosis, Part 2: Technical Report",BIS 创新中心、香港金管局,2025-10,https://www.bis.org/publications/symbiosis-part-2-technical-report.pdf,技术报告,L2,范围三核算、减排融资匹配原型,概念验证,GPT P1-R1
+G-9-12,银行环境履责、贷后管理与企业绿色贷款“漂绿”,潘敏、袁月、朱雨萱,2026,https://www.jryj.org.cn/CN/abstract/abstract1611.shtml,《金融研究》论文,未标,用途核验与贷后管理,未识别具体软件贡献,GPT P1-R1
+G-9-13,国家碳达峰试点（湖州）实施方案；湖州绿色金融综合服务平台,湖州市；国家发改委刊载方案,2024、动态平台,https://www.ndrc.gov.cn/fggz/hjyzy/tdftzh/202407/t20240711_1391619_ext.html,政策文件、产品入口,未标,碳账户接入融资服务的设计与入口,无逐笔减排数据,GPT P1-R1
+G-9-14,Access to cash coverage in the UK 2025 H2,FCA,2025 下半年观察期,https://www.fca.org.uk/data/access-cash-coverage-uk-2025-h2,监管统计及方法,L2,地理可达性、服务分类,直线距离高估可达性,GPT P1-R1
+G-9-15,Upgrading Financial Markets,Francis Annan、Seth Garz,2026-10,https://www.nber.org/papers/w35912,NBER 工作论文,未标,农村代理升级、反馈机制,摘要口径、单一国家,GPT P1-R1
+G-9-16,Banking with Agents: Experimental Evidence from Senegal,Buri 等,2024,https://www.journals.uchicago.edu/doi/pdf/10.1086/723569,期刊论文,未标,代理与分行的交易成本差异,接近两种渠道的实验样本,GPT P1-R1
+G-9-17,2025 半年度可持续发展（ESG）专题报告,民生银行,2025,https://www.cmbc.com.cn/cmbc_new/articleFileDir/2025-08/26/fbd3c15c7469428d9ac4b81cc6ab0a53/2025112516252977556.pdf?aisite-article-file=cmbc_new%2Cfbd3c15c7469428d9ac4b81cc6ab0a53%2C2025-08-26+10%3A02%3A51,银行正式报告,L2,手语视频及无障碍朗读,缺办结率,GPT P1-R1
+G-9-18,福建省“银行网点通”平台正式上线,福建省委金融办网站，来源含新华财经、人行福建省分行,2025-12,https://fjjrb.gov.cn/xxzx/sjyw/202512/t20251225_7060535.htm,上线报道,未标,多业务网点地图入口,联合来源转述,GPT P1-R1
+G-9-19,Do online pension dashboards affect pension knowledge and expectations?,Kramer、Lensink、Plantinga,2024,https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/do-online-pension-dashboards-affect-pension-knowledge-and-expectations-evidence-from-a-randomized-survey-experiment/ECC8322CCF2F66C299D1A14BA100FDB0,*Journal of Pension Economics & Finance* 论文,L2,随机鼓励、访问、认知及行为意愿,实际互动比例低,GPT P1-R1
+G-9-20,PASSAGES microsimulation model,加拿大统计局,2024—2026,https://www150.statcan.gc.ca/n1/en/catalogue/89260006,模型及数据目录,L2,退休收入微观模拟、公开合成数据,特定国家制度,GPT P1-R1
+G-9-21,Connection deadline,英国 Pensions Dashboards Programme,动态项目文件,https://www.pensionsdashboardsprogramme.org.uk/connection/deadline,官方项目说明,L2,机构连接与公众开放时间,开放时间为预计,GPT P1-R1
+G-9-22,养老机构预收费存管工作指引,民政部办公厅、金融监管总局办公厅,2025-10 印发,https://app.www.gov.cn/govdata/gov/202511/19/540271/article.html,正式文件,L2,专户、异常资金、系统对接及责任,制度要求,GPT P1-R1
+G-9-23,湛江市养老机构预收费监管平台正式启动,湛江市民政局,2026-07,https://www.zhanjiang.gov.cn/zjsfw/bmdh/mzj/zwgk/gzdt/content/mpost_2199009.html,官方运行披露,L2,地方平台启动及业务范围,无退费和损失率,GPT P1-R1
+G-9-24,Digitalization and Credit Markets: Evidence from e-Invoicing,Casado 等,2026-07,https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2619e.pdf,西班牙央行、CEPR 工作论文,L2,电子发票与融资重新配置,地区改革、行政数据,GPT P1-R1
+G-9-25,关于推广应用电子凭证会计数据标准的通知,财政部等,2025-05,https://www.mof.gov.cn/jrttts/202505/t20250521_3964264.htm,标准推广文件,L2,结构化凭证、系统适配,无机构效果对照,GPT P1-R1
+G-9-26,全国推广数字化电子发票,国家数据局；案例单位为税务总局,2024-10,https://www.nda.gov.cn/sjj/ywpd/sjzg/1021/20241021140136332233355_pc.html,官方案例,L2,开具、查验和“乐企”直连规模,官方汇总口径,GPT P1-R1
+G-9-27,邮储银行新一代公司业务核心系统建设圆满收官,邮储银行,2024-10,https://www.psbc.com/cn/gyyc/ycfm/ycdt/202410/t20241023_266731.html,银行正式披露,L2,投产、客户迁移、系统架构,性能自报,GPT P1-R1
+G-9-28,Operational resilience in a macroprudential framework,英格兰银行,2024,https://www.bankofengland.co.uk/financial-stability-paper/2024/operational-resilience-in-a-macroprudential-framework?sf199244208=1,金融稳定研究报告,L2,共用基础设施和故障传导,案例及分析框架,GPT P1-R1
+G-9-29,eInvoicing-EN16931 validation artefacts,ConnectingEurope,持续更新,https://github.com/ConnectingEurope/eInvoicing-EN16931,开源规则库,L2,可执行电子发票校验及版本记录,限相应标准,GPT P1-R1
+G-9-30,Global Findex Database 2025: Download data,世界银行,2025 版,https://www.worldbank.org/en/publication/globalfindex/download-data,数据库及文档,L2,数字连接、城乡及收入分组,调查自报、非业务流水,GPT P1-R1
