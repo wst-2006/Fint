@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+
+  <head>
+
+    <!-- Google Tag Manager -->
+    <script>
+    const test = location.hostname === 'paas.huifutest.com'
+    const prod = location.hostname === 'paas.huifu.com'
+    if (test || prod) {
+       // 1. 初始化 dataLayer
+      window.dataLayer = window.dataLayer || [];
+      // 2. 从 localStorage 获取 userId 并推入 dataLayer
+      // 建议放在 'gtm.start' 之前，确保初始化时就能读取到
+      const userId = localStorage.getItem('hfApiUserId');
+      if (userId) {
+        window.dataLayer.push({
+          'user_id': userId,        // GA4 标准命名建议使用 user_id
+          'hf_api_user_id': userId  // 也可以保留一个自定义维度的命名
+        });
+      }
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+          'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-PCD3FSTQ');
+    }
+  </script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml"
+      href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgwebsite/new-public/img/logo_icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+      content="斗拱平台，汇付支付,汇付支付开发者平台官网,汇付商户平台,斗拱商户平台,斗拱服务商平台，汇付支付服务商平台，汇付商户,汇付商户号,移动支付,手机支付,汇付支付开通,汇付支付接入,汇付支付申请,汇付商户平台登录,汇付服务商平台登录,汇付支付接口开发,汇付支付接口申请,汇付支付客服,汇付支付登录,刷卡支付,扫码支付,面对面支付,汇付支付SDK，汇付支付UI工具包，汇付支付Checkout" />
+    <meta name="keywords"
+      content="斗拱平台,汇付支付,汇付支付开发者平台官网,汇付商户平台,斗拱商户平台,斗拱服务商平台，汇付支付服务商平台，汇付商户,汇付商户号,移动支付,手机支付,汇付支付开通,汇付支付接入,汇付支付申请,汇付商户平台登录,汇付服务商平台登录,汇付支付接口开发,汇付支付接口申请,汇付支付客服,汇付支付登录,刷卡支付,扫码支付,面对面支付,汇付支付SDK，汇付支付UI工具包，汇付支付Checkout" />
+    <meta name="author" content="斗拱平台" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta property="og:title"
+      content="斗拱平台，汇付支付,汇付支付开发者平台官网,汇付商户平台,斗拱商户平台,斗拱服务商平台，汇付支付服务商平台，汇付商户,汇付商户号,移动支付,手机支付,汇付支付开通,汇付支付接入,汇付支付申请,汇付商户平台登录,汇付服务商平台登录,汇付支付接口开发,汇付支付接口申请,汇付支付客服,汇付支付登录,刷卡支付,扫码支付,面对面支付,汇付支付SDK，汇付支付UI工具包，汇付支付Checkout" />
+    <meta property="og:description"
+      content="斗拱平台，汇付支付,汇付支付开发者平台官网,汇付商户平台,斗拱商户平台,斗拱服务商平台，汇付支付服务商平台，汇付商户,汇付商户号,移动支付,手机支付,汇付支付开通,汇付支付接入,汇付支付申请,汇付商户平台登录,汇付服务商平台登录,汇付支付接口开发,汇付支付接口申请,汇付支付客服,汇付支付登录,刷卡支付,扫码支付,面对面支付,汇付支付SDK，汇付支付UI工具包，汇付支付Checkout" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://paas.huifu.com/" />
+    <meta property="og:image"
+      content="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgwebsite/new-public/img/logo_icon.png" />
+    <title>斗拱平台</title>
+    <link rel="canonical" href="https://paas.huifu.com/" />
+    <script
+      src="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgwebsite/open-public/docs/js/qrcode.min.js?t=202603181533"
+      async></script>
+    <script type="module" crossorigin src="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/index-39568a45.js"></script>
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/vue-f28df67c.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/vendor-943c6c1f.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/pinia-95b065d6.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/element-plus-ecab920c.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/icons-228f2b1f.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/axios-3887c25a.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/vue-router-6648b5bd.js">
+    <link rel="modulepreload" crossorigin href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/vue-i18n-88980652.js">
+    <link rel="stylesheet" href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/element-plus-7df7feeb.css">
+    <link rel="stylesheet" href="https://cloudpnrcdn.oss-cn-shanghai.aliyuncs.com/dgweb-new/prod/assets/index-4f4cc2dc.css">
+  </head>
+
+  <body>
+    <div id="app"></div>
+    
+  </body>
+
+</html>
