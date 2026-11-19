@@ -175,3 +175,39 @@ G-9-27,邮储银行新一代公司业务核心系统建设圆满收官,邮储银
 G-9-28,Operational resilience in a macroprudential framework,英格兰银行,2024,https://www.bankofengland.co.uk/financial-stability-paper/2024/operational-resilience-in-a-macroprudential-framework?sf199244208=1,金融稳定研究报告,L2,共用基础设施和故障传导,案例及分析框架,GPT P1-R1
 G-9-29,eInvoicing-EN16931 validation artefacts,ConnectingEurope,持续更新,https://github.com/ConnectingEurope/eInvoicing-EN16931,开源规则库,L2,可执行电子发票校验及版本记录,限相应标准,GPT P1-R1
 G-9-30,Global Findex Database 2025: Download data,世界银行,2025 版,https://www.worldbank.org/en/publication/globalfindex/download-data,数据库及文档,L2,数字连接、城乡及收入分组,调查自报、非业务流水,GPT P1-R1
+G-1-18,微信支付商户平台·账单管理,中国,,https://pay.wechatpay.cn/doc/v3/merchant/4013071215,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-1-19,微信支付官方 Java SDK,中国，开源,,https://github.com/wechatpay-apiv3/wechatpay-java,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-1-20,PingPong 跨境收付款,中国,,https://open.pingpongx.com/docs/product/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/inbound/,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-1-21,Hyperswitch,Juspay，开源,,https://github.com/juspay/hyperswitch,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-2-33,微众银行·微业贷,中国,,https://www.xinhuanet.com/money/20260304/57a22eca176c4e50929d1bb3a300d0c7/c.html,产品/开源/机构系统,L1,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-2-34,征信中心个人信用信息服务平台,中国,,https://ipcrs.pbccrc.org.cn/html/help_center3.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-2-35,中征应收账款融资服务平台,中国,,https://www.crcrfsp.org.cn/,产品/开源/机构系统,L1,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-2-36,Apache Fineract,开源,,https://github.com/apache/fineract,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-3-17,且慢,盈米基金，中国,,https://asset2.qieman.com/agreement/7a186e29-cf0e-46b6-b15c-4b3894891da1.pdf,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-3-18,Betterment 自动税损收割,美国,,https://www.sec.gov/newsroom/press-releases/2023-80?trk=article-ssr-frontend-pulse_little-text-block\&utm_source=chatgpt.com,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-4-22,金事通,中国银保信,,https://apps.apple.com/cn/app/%E9%87%91%E4%BA%8B%E9%80%9A-%E4%BF%9D%E5%8D%95%E6%9F%A5%E8%AF%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1398623713,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-4-23,平安好车主·车险自助理赔,中国,,https://www.pingan.com/app_upload/images/info/upload/980e2cc9-ab1b-488c-882b-5f57ffb8d28b.pdf,产品/开源/机构系统,L1,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-4-24,山东省医保区块链平台·惠民保理赔授权,中国,,https://www.nda.gov.cn/sjj/ywpd/zcgh/0616/20260616223808533286732_pc.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-4-25,openIMIS,开源,,https://www.openimis.org/what-openimis,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-4-26,Life Insurance Policy Locator,美国 NAIC,,https://content.naic.org/article/naic-life-insurance-policy-locator-tool-helps-match-consumers-more-16-billion-lost-and-unclaimed?trk=article-ssr-frontend-pulse_little-text-block\&utm_source=chatgpt.com,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-5-17,惠州农商银行反洗钱风险监控系统,中国,,https://www.nfrm.org.cn/col87/69,产品/开源/机构系统,L1,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-5-18,中基协私募基金管理人信息公示,中国,,https://gs.amac.org.cn/,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-5-19,OpenSanctions yente,开源,,https://github.com/opensanctions/yente,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-5-20,FCA Firm Checker,英国,,https://www.fca.org.uk/news/press-releases/fca-cracks-down-illegal-promotions-and-market-abuse-first-year-new-strategy,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-6-19,全国中小微企业资金流信用信息共享平台,中国人民银行征信中心,,https://www.cfcii.org.cn/,产品/开源/机构系统,L1,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-6-20,FATE 联邦学习框架,微众银行发起，开源,,https://github.com/FederatedAI/FATE/,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-7-16,Benji／Franklin OnChain U.S. Government Money Fund,美国,,https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-7-17,HSBC Orion·香港政府数码绿色债券,中国香港,,https://www.hkgb.gov.hk/sc/news/sustainbondpress/press_20251111.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8a-21,FinGLM,中文财报开源项目,,https://github.com/MetaGLM/FinGLM,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8a-22,ProsusAI/FinBERT,公开模型权重,,https://huggingface.co/ProsusAI/finbert,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-15,蚂小财,蚂蚁财富，中国,,https://www.thepaper.cn/newsDetail_forward_28652063,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-16,AI 涨乐,华泰证券，中国,,https://static.cninfo.com.cn/finalpage/2026-03-31/1225050713.PDF,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-17,支付宝 AI 付,中国,,https://aipay.alipay.com/,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-18,Cleo,美国消费金融应用,,https://web.meetcleo.com/faqs/en/articles/13742091-where-has-budget-gone,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-19,PayPal Agent Toolkit,开源,,https://github.com/paypal/agent-toolkit,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-8b-20,Alpaca MCP Server,开源,,https://github.com/alpacahq/alpaca-mcp-server,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-9-41,企业创新积分制服务平台（科技金融）,工信部火炬中心,,https://app.www.gov.cn/govdata/gov/202503/28/525908/article.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-9-42,湖州绿贷通（绿色金融）,,,https://sthjt.zj.gov.cn/module/download/downfile.jsp?classid=0\&filename=390b57d5c2d64239a231d2c8731dc54f.pdf\&utm_source=chatgpt.com,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-9-43,微众银行财富＋无障碍版（普惠金融）,,,https://paper.people.com.cn/rmrbwap/html/2023-12/04/nw.D110000renmrb_20231204_5-06.htm,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-9-44,国家社会保险公共服务平台·个人养老金服务（养老金融）,中国,,https://www.mohrss.gov.cn/wap/zc/zcwj/202211/t20221104_489352.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-9-45,第三方银行电子函证平台（数字金融）,中注协及合作机构，中国,,https://cicpa.org.cn/xxfb/tzgg/202610/t20261015_66115.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
