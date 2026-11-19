@@ -246,3 +246,54 @@ G-9-47,全国碳市场交易公开信息（绿色金融）,上海环境能源交
 G-9-48,北京大学数字普惠金融指数（普惠金融）,,,https://idf.pku.edu.cn/zsbz/bjdxszphjrzs/758c70bcc3594acdbcdecf151187e585.htm,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
 G-9-49,人社部企业年金基金业务数据摘要（养老金融）,,,https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/shbx_4216/shbxjjjg/qynjjd/,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
 G-9-50,香港金管局零售银行分行网点 API（数字金融）,,,https://data.gov.hk/en-data/dataset/hk-hkma-bankatm-banks-branch-locator,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-26,Coinbase,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8b-27,AP2,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8b-28,NeMo,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8b-29,PayPal 权限配置,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-24,金融监管总局指导意见,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-8b-30,自动续费大扫除,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8b-31,Rocket Money,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-1-27,支付宝解约帮助,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-1-28,中文账单导入器,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-3-21,IBot,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-1-29,Hyperswitch 对账模块,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-1-30,Ping++ 手册,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-1-31,recon-platform,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-5-25,IBM 数据入口,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-26,作者数据表,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-27,CDLA 协议,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-29,aml-project,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-5-17,沿用,,,,对手/反例,L1/L2 见原文,P2 对手与反例,见 GPT 原文,GPT
+G-2-42,Evidently,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-2-43,NannyML,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-2-44,alternative_credit_scoring,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-2-46,南山企业服务平台,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-2-47,建行小微快贷,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-2-48,信易贷平台说明,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-2-49,互联网助贷管理通知,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-4-30,openIMIS 保险产品手册,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-4-31,人保健康案例说明,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-4-32,行业协会产品库说明,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-4-33,辉县法院案例,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-4-34,scikit-learn 定价实现,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-4-35,motor-insurance-pricing 仓库,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-30,金融合规信息库,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-5-31,QuantSource 字段文档,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-5-32,OpenSanctions 匹配器及中文说明,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-33,Watchman 文档与自评,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-5-34,compliance-aml,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-6-24,Plaid Portal 与权限文档,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-6-25,个人信息保护法撤回条款,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8a-26,WrenAI,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8a-27,上海银行问数案例,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8a-28,华理获奖公告,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-9-51,安徽工程大学获奖系统,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-9-52,TPI 钢铁方法及企业页,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-9-53,Climate Action 100+ 钢铁评估,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-9-54,齐鲁银行亲情安全铃,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-9-55,建行适老转账服务,,,,对手/反例,L1,P2 对手与反例,见 GPT 原文,GPT
+G-9-56,TeleAntiFraud 公开数据及许可,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-7-19,Stellar Asset Sandbox 操作文档,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-7-20,SEP-8,,,,对手/反例,L2,P2 对手与反例,见 GPT 原文,GPT
+G-8a-29,第五届研究生金融科技创新大赛赛题附件,,,,比赛,L2,P2 对手与反例,,GPT
+G-8b-32,微众赛六场景与权限要求报道,,,,比赛,L1,P2 对手与反例,,GPT
