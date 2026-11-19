@@ -211,3 +211,38 @@ G-9-42,湖州绿贷通（绿色金融）,,,https://sthjt.zj.gov.cn/module/downlo
 G-9-43,微众银行财富＋无障碍版（普惠金融）,,,https://paper.people.com.cn/rmrbwap/html/2023-12/04/nw.D110000renmrb_20231204_5-06.htm,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
 G-9-44,国家社会保险公共服务平台·个人养老金服务（养老金融）,中国,,https://www.mohrss.gov.cn/wap/zc/zcwj/202211/t20221104_489352.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
 G-9-45,第三方银行电子函证平台（数字金融）,中注协及合作机构，中国,,https://cicpa.org.cn/xxfb/tzgg/202610/t20261015_66115.html,产品/开源/机构系统,L2,P1-R2 产品与现状,见 GPT 原文“规模、公开不足或使用限制”列,GPT
+G-1-22,支付宝开放平台普通支付沙箱,中国,,https://aipay.alipay.com/article/3725,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-1-23,中国人民银行《支付体系运行总体情况》,中国内地,,https://www.pbc.gov.cn/zhifujiesuansi/128525/128545/128643/5919291/2025120218462962946.pdf,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-1-24,香港金管局转数快 FPS 统计 API,中国香港,,https://apidocs.hkma.gov.hk/documentation/market-data-and-statistics/monthly-statistical-bulletin/banking/ch-statistics-turnover-fps-hkd-payment-vol/,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-1-25,Stripe 测试环境,境外,,https://docs.stripe.com/testing,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-1-26,PayPal Sandbox,境外,,https://developer.paypal.com/sandbox-testing/accounts,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-2-37,阿里云天池贷款违约数据,国内平台发布,,https://tianchi.aliyun.com/competition/entrance/531830/information,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-2-38,UCI 台湾信用卡客户违约数据,,,https://archive.ics.uci.edu/dataset/350/defaultofcreditcardclients,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-2-39,UCI Statlog 德国信用数据,,,https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-2-40,美国 HMDA 住房贷款申请记录,,,https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-2-41,Fannie Mae 单户住宅贷款表现数据,美国,,https://capitalmarkets.fanniemae.com/credit-risk-transfer/fannie-mae-single-family-loan-performance-data,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-3-19,同花顺 iFinD 免费版数据接口,中国,,https://quantapi.51ifind.com/gwstatic/static/ds_web/quantapi-web/help-center/permission.html,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-3-20,香港金管局外汇基金票据及债券收市参考数据,中国香港,,https://apidocs.hkma.gov.hk/documentation/market-data-and-statistics/daily-monetary-statistics/efbn-closing/,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-4-27,国家金融监督管理总局保险统计,中国内地,,https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1247337\&itemId=954\&utm_source=chatgpt.com,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-4-28,香港保险业监管局一般保险季度数据,中国香港,,https://data.gov.hk/en-data/dataset/ia-iagb-gstatsq2024q4,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-4-29,法国机动车第三者责任险 freMTPL2,,,https://github.com/dutangc/CASdatasets/blob/master/man-md/freMTPL2sev.md,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-5-21,国家法律法规数据库,中国,,https://flk.npc.gov.cn/search,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-5-22,国家金融监督管理总局行政处罚信息公示,中国,,https://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/zhengwuxinxi.html,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-5-23,美国财政部 OFAC Sanctions List Service,,,https://ofac.treasury.gov/sanctions-list-service?trk=article-ssr-frontend-pulse_little-text-block\&utm_source=chatgpt.com,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-6-21,兴业开放银行 API 市场,中国内地,,https://openbank.cib.com.cn/portal/,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-6-22,Plaid Sandbox,境外,,https://plaid.com/docs/sandbox/,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-6-23,Lunar 开放银行沙箱,欧洲,,https://docs.openbanking.lunar.app/sandbox,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-7-18,Stellar Testnet、Friendbot 与本地测试网络,,,https://github.com/stellar/friendbot,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8a-23,FinGLM 中文年报材料,,,https://github.com/MetaGLM/FinGLM/blob/main/README.md,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8a-24,上海证券交易所定期报告披露入口,中国,,https://www.sse.com.cn/disclosure/listedinfo/periodic/index.shtml,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8a-25,美国 SEC EDGAR JSON API 与批量数据,,,https://www.sec.gov/files/company_tickers_exchange.json,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-21,中国家庭金融调查 CHFS 2023,,,https://chfs.swufe.edu.cn/info/1041/4201.htm,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-22,Global Findex 2025 中国微观数据,世界银行,,https://microdata.worldbank.org/catalog/7884/data-dictionary,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-23,美国美联储 Survey of Consumer Finances 2025,,,https://www.federalreserve.gov/econres/scfindex.htm,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-24,Alpaca Paper Trading API,,,https://docs.alpaca.markets/us/docs/paper-trading,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-8b-25,支付宝 Agent Pay 委托支付专项接口,中国,,https://aipay.alipay.com/docs/agent-pay/delegation-pay.html,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-9-46,国家知识产权局专利基础数据（科技金融）,,,https://www.gov.cn/zhengce/zhengceku/202406/P020240627537117038293.pdf,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-9-47,全国碳市场交易公开信息（绿色金融）,上海环境能源交易所,,https://overview.cneeex.com/c/2023-08-25/494454.shtml,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-9-48,北京大学数字普惠金融指数（普惠金融）,,,https://idf.pku.edu.cn/zsbz/bjdxszphjrzs/758c70bcc3594acdbcdecf151187e585.htm,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-9-49,人社部企业年金基金业务数据摘要（养老金融）,,,https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/shbx_4216/shbxjjjg/qynjjd/,数据集/接口/沙箱,L1,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
+G-9-50,香港金管局零售银行分行网点 API（数字金融）,,,https://data.gov.hk/en-data/dataset/hk-hkma-bankatm-banks-branch-locator,数据集/接口/沙箱,L2,P1-R2 数据与接口,许可与边界见 GPT 原文,GPT
